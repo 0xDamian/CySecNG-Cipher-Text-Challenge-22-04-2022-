@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+cat cysec_challenge_cipher.txt | sed 's/13/A/g' | sed 's/12/B/g' | sed 's/11/C/g' | sed 's/10/D/g' | sed 's/26/N/g' | sed 's/25/O/g' | sed 's/24/P/g' | sed 's/23/Q/g' | sed 's/22/R/g' | sed 's/21/S/g' | sed 's/20/T/g' | sed 's/19/U/g' | sed 's/18/V/g' | sed 's/17/W/g' | sed 's/16/X/g' | sed 's/15/Y/g' | sed 's/14/Z/g' | sed 's/9/E/g' | sed 's/8/F/g' | sed 's/7/G/g' | sed 's/6/H/g' | sed 's/5/I/g' | sed 's/4/J/g' | sed 's/3/K/g' | sed 's/2/L/g' | sed 's/1/M/g' | sed 's/LOMH/2016/g'
